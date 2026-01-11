@@ -25,11 +25,6 @@ The API runs locally and exposes endpoints for both collections and individual i
 - **Axios** (for API testing)
 - **Nodemon** (for development)
 
----
-
-
-
----
 
 ## Supported HTTP Operations
 
