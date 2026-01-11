@@ -39,12 +39,5 @@ The API runs locally and exposes endpoints for both collections and individual i
 - `PUT /api/:id` – Update a specific item
 - `DELETE /api/:id` – Delete a specific item
 
----
-
-## Running the Project Locally
-
-### 1. Install Dependencies
-```bash
-npm install
 
     
