@@ -3,7 +3,6 @@
 A simple RESTful API built using **Node.js**, **Express**, and **SQLite** that supports full CRUD operations on a collection of resources.  
 The project also includes a client script to test API endpoints using HTTP requests.
 
----
 
 ## Overview
 
